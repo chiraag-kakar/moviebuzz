@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/moviebuzz/static/css/main.1b2368c0.chunk.css",
+    "main.js": "/moviebuzz/static/js/main.cdd39752.chunk.js",
+    "main.js.map": "/moviebuzz/static/js/main.cdd39752.chunk.js.map",
+    "runtime-main.js": "/moviebuzz/static/js/runtime-main.b7f2c592.js",
+    "runtime-main.js.map": "/moviebuzz/static/js/runtime-main.b7f2c592.js.map",
+    "static/js/2.43093e81.chunk.js": "/moviebuzz/static/js/2.43093e81.chunk.js",
+    "static/js/2.43093e81.chunk.js.map": "/moviebuzz/static/js/2.43093e81.chunk.js.map",
+    "index.html": "/moviebuzz/index.html",
+    "precache-manifest.4f03bdc51d67a7d169b6bb5313bf334e.js": "/moviebuzz/precache-manifest.4f03bdc51d67a7d169b6bb5313bf334e.js",
+    "service-worker.js": "/moviebuzz/service-worker.js",
+    "static/css/main.1b2368c0.chunk.css.map": "/moviebuzz/static/css/main.1b2368c0.chunk.css.map",
+    "static/js/2.43093e81.chunk.js.LICENSE.txt": "/moviebuzz/static/js/2.43093e81.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/moviebuzz/static/media/fa-solid-900.bea989e8.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7f2c592.js",
+    "static/js/2.43093e81.chunk.js",
+    "static/css/main.1b2368c0.chunk.css",
+    "static/js/main.cdd39752.chunk.js"
+  ]
+}
