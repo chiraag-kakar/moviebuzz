@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;900&display=swap");
 
 :root {
-  --primary: #032541;
-  --secondary: #21d07a;
+  --primary: #070303;
+  --secondary: #dbba00;
   --white: #fff;
 }
 
@@ -10,6 +10,7 @@ body {
   font-family: "Source Sans Pro", sans-serif;
   padding: 0;
   margin: 0;
+  background-color: #ece2e2;
 }
 
 .container {
@@ -58,7 +59,7 @@ body {
 }
 
 .btn:hover {
-  background-color: #1aa762;
+  background-color: #a9c961;
   opacity: 1;
   cursor: pointer;
 }
@@ -253,7 +254,7 @@ header .nav-links li:last-child {
 
 .movie-card .inner-card-controls {
   display: inline;
-  background-color: red;
+  background-color: rgb(82, 55, 55);
   position: absolute;
   bottom: 20px;
   left: 50%;
